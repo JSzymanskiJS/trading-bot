@@ -11,4 +11,6 @@ In this project I would like to make progress in connecting to API and acquiring
     3. Add GUI.
 4. Add option for connecting and testing analysis part of software without makeing real world transactions.
 5. Rewrite analysis part of software for connecting with CUDA framework.
-6. Coming soon 😜.
+6. Fixing auto-save of state of trading bot.
+7. Coming soon 😜.
+
